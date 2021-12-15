@@ -1,0 +1,28 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "onboarding_js",
+  "steps": [
+    {
+      "file": "nodejs/src/router.js",
+      "description": "Importamos librerias\n",
+      "line": 2
+    },
+    {
+      "file": "nodejs/src/utils/simple-password-generator.js",
+      "description": "Esta libreria sirve para generar una contraseña aleatoria.",
+      "line": 1
+    },
+    {
+      "file": "nodejs/src/utils/simple-password-generator.js",
+      "description": "Generamos la contraseña aleatoria.",
+      "line": 9
+    },
+    {
+      "file": "nodejs/src/router.js",
+      "description": "Llamamos la generacion de la contraseña aleatoria.",
+      "line": 7
+    }
+  ],
+  "ref": "master",
+  "isPrimary": true
+}

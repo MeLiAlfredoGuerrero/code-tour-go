@@ -1,0 +1,27 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "onboarding_go",
+  "steps": [
+    {
+      "file": "go/cmd/gopherapi/main.go",
+      "description": "Importamos paquetes necesarios",
+      "line": 3
+    },
+    {
+      "file": "go/cmd/gopherapi/main.go",
+      "description": "Se crea una estructura tipo servidor necesaria para el handler del Servidor",
+      "line": 8
+    },
+    {
+      "file": "go/cmd/gopherapi/main.go",
+      "description": "Creamos una función que contiene las configuraciones del handler",
+      "line": 10
+    },
+    {
+      "file": "go/cmd/gopherapi/main.go",
+      "description": "Se indican los verbos que se pueden usar.",
+      "line": 12
+    }
+  ],
+  "ref": "master"
+}
